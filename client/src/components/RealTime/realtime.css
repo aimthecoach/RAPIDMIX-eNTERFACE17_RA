@@ -1,0 +1,25 @@
+.charts-item {
+  margin-left: -60px !important;
+  /*margin-right: 10px !important;*/
+}
+
+.charts-section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+.charts-item {
+  flex: 1 1 auto;
+}
+.charts {
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+  height: 205px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.charts-item {
+  max-width: 33%;
+}

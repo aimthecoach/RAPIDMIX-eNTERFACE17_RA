@@ -1,0 +1,37 @@
+.series-configuration {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 10px;
+  height: 205px;
+
+}
+
+.series-sessions {
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+  height: 600px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.series-connection-title {
+  padding: 5px;
+  margin: 5px;
+}
+.series-gesture-labels {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 10px;
+  height: 600px;
+}
+
+
+.sessions-chart-flex {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.sessions-chart-flex-item {
+  margin-left: -20px !important;
+}

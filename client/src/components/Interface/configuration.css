@@ -1,0 +1,9 @@
+.sensors-configuration {
+  display: flex;
+  flex-direction: column;
+}
+
+.sensors-all, .sensors-accel, .sensors-gyro,
+.sensors-orient {
+  margin-right: 10px;
+}
